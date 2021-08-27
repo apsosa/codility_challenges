@@ -16,7 +16,7 @@ For example, in array A such that:
 
 Write a function:
 
-    class Solution { public int solution(int[] A); }
+      int solution(vector<int> &A);
 
 that, given an array A consisting of N integers fulfilling the above conditions, returns the value of the unpaired element.
 

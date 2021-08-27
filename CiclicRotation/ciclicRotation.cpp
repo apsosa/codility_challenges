@@ -2,10 +2,6 @@
 #include<iostream>
 using namespace std;
 
-void rotation(vector<int> &A){
-
-
-}
 
 
 vector<int> solution(vector<int> &A, int K){
